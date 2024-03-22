@@ -1,0 +1,1 @@
+cd .. && cd usr && cd bin && git clone https://github.com/BNCartoons/felrok-Fubuntu-1.0.git && cd felrok-Fubuntu-1.0 && mv felrok /data/data/com.termux/files/usr/bin && chmod +x felrok && cd
