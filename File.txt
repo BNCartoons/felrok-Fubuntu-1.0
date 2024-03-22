@@ -1,1 +1,2 @@
 cd .. && cd usr && cd bin && git clone https://github.com/BNCartoons/felrok-Fubuntu-1.0.git && cd felrok-Fubuntu-1.0 && mv felrok /data/data/com.termux/files/usr/bin && chmod +x felrok && cd
+PS1='\[\e[31m\]┌─[\[\e[37m\]\T\[\e[31m\]]──\e[1;93m[alex]\e[0;31m──[\#]\n|\n\e[0;31m└─[\[\e[31m\]\e[0;35m\W\[\e[31m\]]──► \e[1;92m'
